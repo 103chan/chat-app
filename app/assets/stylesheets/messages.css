@@ -79,7 +79,7 @@
 .messages {
   background-color: #FAFAFA;
   height: calc(100vh - 100px - 90px);
-  padding: 46px 40px 0；
+  padding: 46px 40px 0;
   overflow: scroll;
 }
 
@@ -87,7 +87,7 @@
   margin: 10px 0 0 0;
 }
 
-upper-message {
+.upper-message {
   display: flex;
 }
 
@@ -96,7 +96,7 @@ upper-message {
   font-size: 16px;
 }
 
-message-date {
+.message-date {
   color: #999;
   font-size: 12px;
   padding-left: 10px;
